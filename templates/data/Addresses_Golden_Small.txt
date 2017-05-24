@@ -1,0 +1,5 @@
+ID	Name	Street_1	City	State	Zip
+1	Pangea Coffee Roasters	1205 Cheyenne Street	Golden	CO	80401
+2	Golden City Brewery	920 12th Street	Golden	CO	80401
+3	Spinster Sister	912 12th Street	Golden	CO	80401
+4	Sherpa House	1518 Washington Street	Golden	CO	80401
